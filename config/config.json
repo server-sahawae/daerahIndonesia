@@ -1,7 +1,7 @@
 {
   "development": {
-    "username": "proj9117_sahawae",
-    "password": "sahawaenya27",
+    "username": "proj9117_daerahIndonesiaGuest",
+    "password": "sabiqsabiq",
     "database": "proj9117_daerahindonesiadb",
     "host": "srv150.niagahoster.com",
     "dialect": "mysql"
@@ -14,9 +14,9 @@
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
-    "password": null,
-    "database": "database_production",
+    "username": "proj9117_daerahIndonesiaGuest",
+    "password": "sabiqsabiq",
+    "database": "proj9117_daerahindonesiadb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
