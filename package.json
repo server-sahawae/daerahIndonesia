@@ -4,7 +4,9 @@
   "description": "list provinces, cities, districts and wards in indonesia",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app",
+    "dev": "nodemon app"
   },
   "author": "sahawae",
   "license": "ISC",
